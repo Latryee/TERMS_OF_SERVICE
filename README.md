@@ -1,0 +1,2 @@
+# TERMS_OF_SERVICE
+TERMS_OF_SERVICE of Transfer Bot
